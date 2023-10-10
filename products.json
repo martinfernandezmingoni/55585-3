@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Everdell",
+    "description": "Reúne recursos para construir Estructuras fantasiosas y reclutar a Criaturas coloridas para desarrollar tu ciudad. Cada carta de tu ciudad te otorga puntos; ¡la ciudad que consiga más puntos después de cuatro estaciones gana!",
+    "price": 34500,
+    "thumbnail": "SIN IMAGEN",
+    "code": "est-jm-0001",
+    "stock": 1
+  },
+  {
+    "id": 2,
+    "title": "Catan",
+    "description": "Colonizar, comerciar y construir son las claves del éxito. Coloca poblados y carreteras con habilidad, negocia con tus amigos para conseguir materias primas y haz un uso inteligente del ladrón para bloquear terrenos. Igual que en el juego de mesa, el pensamiento estratégico es crucial para vencer a los demás jugadores.",
+    "price": 16200,
+    "thumbnail": "SIN IMAGEN",
+    "code": "est-jm-0002",
+    "stock": 1000
+  },
+  {
+    "id": 3,
+    "title": "King of Tokyo",
+    "description": "Juego de dados, en el que elegimos nuestro mounstruo para combatir contra otros y ser el rey de Tokyo",
+    "price": 16200,
+    "thumbnail": "SIN IMAGEN",
+    "code": "est-jm-0002",
+    "stock": 1000
+  },
+  {
+    "id": 4,
+    "title": "Terra Mystica",
+    "description": "En la tierra de Terra Mystica habitan 14 pueblos diferentes en siete paisajes, y cada grupo está ligado a su propio entorno natal, por lo que para desarrollarse y crecer, deben terraformar los paisajes vecinos en sus entornos natales en competencia con los otros grupos.",
+    "price": 36100,
+    "thumbnail": "SIN IMAGEN",
+    "code": "est-jm-0004",
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "title": "Uno",
+    "description": "El objetivo de UNO es deshacerse de todas las cartas que se “roban” inicialmente, diciendo la palabra uno cuando queda la última carta en la mano",
+    "price": 3000,
+    "thumbnail": "SIN IMAGEN",
+    "code": "cart-jm-0001",
+    "stock": 1
+  },
+  {
+    "id": 6,
+    "title": "Adventure La Mazmorra",
+    "description": "En los Adventure Games, cada grupo de jugadores se enfrenta a una aventura inmersiva en la cual deberán explorar una serie de escenarios consecutivos para resolver el misterio planteado.",
+    "price": 54300,
+    "thumbnail": "SIN IMAGEN",
+    "code": "1jug-jm-0001",
+    "stock": 10
+  },
+  {
+    "id": 7,
+    "title": "Robin Hood",
+    "description": "Las aventuras de Robin Hood es un juego de 1 a 4 personas. Es un juegoo cooperativo sin manual que va evolucionando segun las decisiones que toman los jugadores",
+    "price": 18100,
+    "thumbnail": "SIN IMAGEN",
+    "code": "est-jm-0003",
+    "stock": 6
+  }
+]
