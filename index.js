@@ -1,3 +1,5 @@
+//use este index para crear archivos y probar el programa
+
 const ProductManager = require('./ProductManager')
 
 const productManager = new ProductManager('./products.json')
