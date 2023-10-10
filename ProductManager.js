@@ -64,9 +64,17 @@ class ProductManager {
   
 
   getProductByID = (id) => {
-    const product = this.products.find(p => p.id === id)
-    return product ? product : 'ID Not Found'
+    try {
+      const data = fs.readFileSync(this.path, this.format);
+      const products = JSON.parse(data);
+      const product = products.find(p => p.id === id);
+      return product ? product : 'ID Not Found';
+    } catch (error) {
+      console.log('Error:', error.message);
+      return 'Error';
+    }
   }
+  
 
   updateProduct(id, updates) {
     try{

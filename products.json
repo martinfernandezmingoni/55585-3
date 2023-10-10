@@ -1,65 +1,92 @@
 [
   {
     "id": 1,
-    "title": "Everdell",
-    "description": "Reúne recursos para construir Estructuras fantasiosas y reclutar a Criaturas coloridas para desarrollar tu ciudad. Cada carta de tu ciudad te otorga puntos; ¡la ciudad que consiga más puntos después de cuatro estaciones gana!",
-    "price": 34500,
+    "title": "Catan",
+    "description": "Construye y comercia en esta aventura estratégica.",
+    "price": 14999.99,
     "thumbnail": "SIN IMAGEN",
-    "code": "est-jm-0001",
-    "stock": 1
+    "code": "CM-001",
+    "stock": 50
   },
   {
     "id": 2,
-    "title": "Catan",
-    "description": "Colonizar, comerciar y construir son las claves del éxito. Coloca poblados y carreteras con habilidad, negocia con tus amigos para conseguir materias primas y haz un uso inteligente del ladrón para bloquear terrenos. Igual que en el juego de mesa, el pensamiento estratégico es crucial para vencer a los demás jugadores.",
-    "price": 16200,
+    "title": "Risk",
+    "description": "Domina el mundo en este juego de estrategia militar.",
+    "price": 13999.99,
     "thumbnail": "SIN IMAGEN",
-    "code": "est-jm-0002",
-    "stock": 1000
+    "code": "CM-002",
+    "stock": 40
   },
   {
     "id": 3,
-    "title": "King of Tokyo",
-    "description": "Juego de dados, en el que elegimos nuestro mounstruo para combatir contra otros y ser el rey de Tokyo",
-    "price": 16200,
+    "title": "Ticket to Ride",
+    "description": "Construye rutas de tren en este juego de aventuras.",
+    "price": 12999.99,
     "thumbnail": "SIN IMAGEN",
-    "code": "est-jm-0002",
-    "stock": 1000
+    "code": "CM-003",
+    "stock": 35
   },
   {
     "id": 4,
-    "title": "Terra Mystica",
-    "description": "En la tierra de Terra Mystica habitan 14 pueblos diferentes en siete paisajes, y cada grupo está ligado a su propio entorno natal, por lo que para desarrollarse y crecer, deben terraformar los paisajes vecinos en sus entornos natales en competencia con los otros grupos.",
-    "price": 36100,
+    "title": "Pandemic",
+    "description": "Combate enfermedades mortales en este juego cooperativo.",
+    "price": 15999.99,
     "thumbnail": "SIN IMAGEN",
-    "code": "est-jm-0004",
-    "stock": 10
+    "code": "CM-004",
+    "stock": 30
   },
   {
     "id": 5,
-    "title": "Uno",
-    "description": "El objetivo de UNO es deshacerse de todas las cartas que se “roban” inicialmente, diciendo la palabra uno cuando queda la última carta en la mano",
-    "price": 3000,
+    "title": "Carcassonne",
+    "description": "Construye un paisaje medieval en este juego de fichas.",
+    "price": 12999.99,
     "thumbnail": "SIN IMAGEN",
-    "code": "cart-jm-0001",
-    "stock": 1
+    "code": "CM-005",
+    "stock": 45
   },
   {
     "id": 6,
-    "title": "Adventure La Mazmorra",
-    "description": "En los Adventure Games, cada grupo de jugadores se enfrenta a una aventura inmersiva en la cual deberán explorar una serie de escenarios consecutivos para resolver el misterio planteado.",
-    "price": 54300,
+    "title": "Dominion",
+    "description": "Crea un reino en este juego de construcción de mazos.",
+    "price": 12499.99,
     "thumbnail": "SIN IMAGEN",
-    "code": "1jug-jm-0001",
-    "stock": 10
+    "code": "CM-006",
+    "stock": 25
   },
   {
     "id": 7,
-    "title": "Robin Hood",
-    "description": "Las aventuras de Robin Hood es un juego de 1 a 4 personas. Es un juegoo cooperativo sin manual que va evolucionando segun las decisiones que toman los jugadores",
-    "price": 18100,
+    "title": "Codenames",
+    "description": "Descifra las palabras clave en este juego de espionaje.",
+    "price": 10999.99,
     "thumbnail": "SIN IMAGEN",
-    "code": "est-jm-0003",
-    "stock": 6
+    "code": "CM-007",
+    "stock": 55
+  },
+  {
+    "id": 8,
+    "title": "Scythe",
+    "description": "Controla una nación en este juego de estrategia alternativa.",
+    "price": 17999.99,
+    "thumbnail": "SIN IMAGEN",
+    "code": "CM-008",
+    "stock": 20
+  },
+  {
+    "id": 9,
+    "title": "Terraforming Mars",
+    "description": "Transforma el planeta rojo en este juego de ciencia ficción.",
+    "price": 16999.99,
+    "thumbnail": "SIN IMAGEN",
+    "code": "CM-009",
+    "stock": 15
+  },
+  {
+    "id": 10,
+    "title": "Azul",
+    "description": "Crea mosaicos en este juego de azulejos y patrones.",
+    "price": 13999.99,
+    "thumbnail": "SIN IMAGEN",
+    "code": "CM-010",
+    "stock": 60
   }
 ]

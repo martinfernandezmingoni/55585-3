@@ -1,12 +1,12 @@
-const ProductManager = require('./ProductManagger')
+const ProductManager = require('./ProductManager')
 
 const productManager = new ProductManager('./products.json')
 
 productManager.addProduct({
-  title:"producto de prueba",
-  description:"este es un producto de prueba",
-  price:2000,
-  thumbnail:'SIN IMAGEN',
-  code:'abc123',
-  stock:25
+  "title": "Azul",
+  "description": "Crea mosaicos en este juego de azulejos y patrones.",
+  "price": 13999.99,
+  "thumbnail": "SIN IMAGEN",
+  "code": "CM-010",
+  "stock": 60
 })
